@@ -26,5 +26,4 @@ function toggleFavorite(state = initialState, action) {
     return state
   }
 }
-
 export default toggleFavorite
